@@ -1,0 +1,7 @@
+Factory (abstarir sempre a criação e não se preocupar com relações de outras classes)
+
+- Permite criar objetos sem saber dos detalhes de criação
+
+- Super clase genérica(abstrata)
+    - Criação de classes concretas implementando cada método específico
+    
