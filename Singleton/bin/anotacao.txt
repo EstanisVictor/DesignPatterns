@@ -1,0 +1,6 @@
+Padrões de Construção
+
+- Aplica em situações que envolvem criação de objetos
+- Permite criar objetos ocultando detalhes de sua criação
+    - Sem usar operador new
+    - Mais flexibilidade na hora de decidir quais objetos precisam ser criados para um determinado caso
