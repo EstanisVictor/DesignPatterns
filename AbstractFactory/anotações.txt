@@ -1,0 +1,12 @@
+Abstract Factory
+
+Agora não existe a classe mais generica Empresa e não tem mais fabricas específicas para cada tipo de objeto
+
+Agora é apenas uma única fábrica que encapsula todos os detalhes/informações inerentes a criação de cada objeto possivel
+para a aplicação
+
+O problema é que se existir muitos objetos a serem criados, abstract factory poderá ficar sobrecarregada
+
+Então as vezes um factory será muito útil
+
+Exemplo no caso de usar vários bancos diferentes, abstract factory será muito útil para criar conexões entre vários bancos
