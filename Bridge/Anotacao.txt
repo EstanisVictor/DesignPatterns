@@ -1,0 +1,8 @@
+Bridge
+
+- Desacoplar uma abstração da sua implementação
+
+- Separar a interface do objeto da sua implementação
+    -> Necessidade de separar a representação do objeto da implementação dos comportamentos
+    -> Cria-se a classe implementador, que fica incumbida de implementar todas as operações
+    do objeto que posteriormente serão chamasdas pelas classe de representação, abstração
