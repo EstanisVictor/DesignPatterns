@@ -2,7 +2,7 @@ Adapter
 
 -> Converter uma classe em outra classe esperada pelos clientes
 
--> Classes com interfaces compatíveis trabalhem em conjunto
+-> Classes com interfaces incompatíveis trabalhem em conjunto
     - Cria-se uma nova classe a qual se estende a classe alvo, a qual desej-se converter
     - Reimplementa todos os métodos da classe alvo, de modo a ajustar todas as operações ao objeto que precise ser
     convertido
