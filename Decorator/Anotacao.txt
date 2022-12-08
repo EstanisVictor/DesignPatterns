@@ -1,0 +1,7 @@
+Decorator
+
+- Agrega dinamicamente responsabilidades adicionais a um objeto
+- Permite adicionar um comportamento a um objeto em tempo de exec
+    * Add uma funcionalidade a um objeto e não a uma classe
+- Casos em que um objeto possui funcionalidades básicas, mas é nescessário adicionar novas funcionalidades
+em tempo de exec
