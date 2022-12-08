@@ -1,0 +1,9 @@
+Proxy
+
+Fornece um substituto de outro objeto para controlar o acesso ao mesmo
+
+Ex:
+    - Usado em chamada de objetos remotos (RMI)
+    - Pode-se utilizar de uma classe objeto mais leve, onde não precisa carrewgar toda a informação na memória
+    - Possivel encapsular novas formas de acesso a um objeto
+ 
